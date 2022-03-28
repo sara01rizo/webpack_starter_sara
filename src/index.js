@@ -1,1 +1,3 @@
-console.log(123);
+import generateTip from "./generateTip";
+
+console.log(generateTip())
